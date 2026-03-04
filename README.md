@@ -3,6 +3,7 @@
 A Gamma Exposure (GEX) heatmap tool for options data, with optional Discord bot integration. Fetches live options chains and visualizes dealer gamma positioning across strikes and expiration dates.
 
 ---
+![GEX Heatmap Preview](preview.png)
 
 ## What is GEX?
 
