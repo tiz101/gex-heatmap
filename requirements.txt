@@ -1,0 +1,9 @@
+yfinance
+numpy
+pandas
+matplotlib
+scipy
+pytz
+requests
+pywin32
+comtypes
